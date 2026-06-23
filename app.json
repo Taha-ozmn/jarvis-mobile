@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "J.A.R.V.I.S.",
+    "slug": "jarvis-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#020810"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jarvis.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#020810"
+      },
+      "package": "com.jarvis.mobile"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
